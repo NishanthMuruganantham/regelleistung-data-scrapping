@@ -11,7 +11,7 @@ import os
 
 scrap_logger = logging.getLogger("Data Scrapping")
 merge_logger = logging.getLogger("Merging Files")
-chrome_path = r"D:\Program Files\Google\Chrome\Application\chrome.exe"
+chrome_path = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 
 def download_csv_files(base_url, chrome_driver, download_folder):
     
