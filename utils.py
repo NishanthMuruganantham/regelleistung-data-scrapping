@@ -37,7 +37,7 @@ def download_csv_files(base_url, chrome_driver, download_folder):
         #* configuring driver options
         options = Options()
         options.headless = True
-        options.binary_location = chrome_path
+        #options.binary_location = chrome_path
         options.add_experimental_option("excludeSwitches", ["enable-logging"])
         
         #* setting up driver
