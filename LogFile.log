@@ -1,0 +1,85 @@
+2021-10-15 01:13:03,296 :     root : INFO : Date : 14.10.2021
+2021-10-15 01:13:05,083 :     root : INFO : Available TSO list = ['4', '3', '2', '1', '6', '11', '-42']
+2021-10-15 01:13:05,083 :     root : INFO : Available datatypes list = ['MRL', 'SRL', 'RZ_SALDO', 'REBAP', 'ZUSATZMASSNAHMEN', 'NOTHILFE']
+2021-10-15 01:13:05,083 :     root : INFO : trying to find the data for 4 TSO and MRL dataType
+2021-10-15 01:13:06,891 :     root : INFO : 1 - 4_MRL.csv file downloaded
+2021-10-15 01:13:06,891 :     root : INFO : trying to find the data for 4 TSO and SRL dataType
+2021-10-15 01:13:08,626 :     root : INFO : 2 - 4_SRL.csv file downloaded
+2021-10-15 01:13:08,626 :     root : INFO : trying to find the data for 4 TSO and RZ_SALDO dataType
+2021-10-15 01:13:10,949 :     root : INFO : 3 - 4_RZ_SALDO.csv file downloaded
+2021-10-15 01:13:10,949 :     root : INFO : trying to find the data for 4 TSO and REBAP dataType
+2021-10-15 01:13:12,697 :     root : INFO : 4 - 4_REBAP.csv file downloaded
+2021-10-15 01:13:12,697 :     root : INFO : trying to find the data for 4 TSO and ZUSATZMASSNAHMEN dataType
+2021-10-15 01:13:14,714 :     root : INFO : 5 - 4_ZUSATZMASSNAHMEN.csv file downloaded
+2021-10-15 01:13:14,714 :     root : INFO : trying to find the data for 4 TSO and NOTHILFE dataType
+2021-10-15 01:13:16,202 :     root : INFO : 6 - 4_NOTHILFE.csv file downloaded
+2021-10-15 01:13:16,202 :     root : INFO : trying to find the data for 3 TSO and MRL dataType
+2021-10-15 01:13:17,684 :     root : INFO : 7 - 3_MRL.csv file downloaded
+2021-10-15 01:13:17,684 :     root : INFO : trying to find the data for 3 TSO and SRL dataType
+2021-10-15 01:13:19,645 :     root : INFO : 8 - 3_SRL.csv file downloaded
+2021-10-15 01:13:19,646 :     root : INFO : trying to find the data for 3 TSO and RZ_SALDO dataType
+2021-10-15 01:13:21,372 :     root : INFO : 9 - 3_RZ_SALDO.csv file downloaded
+2021-10-15 01:13:21,372 :     root : INFO : trying to find the data for 3 TSO and REBAP dataType
+2021-10-15 01:13:22,883 :     root : INFO : 10 - 3_REBAP.csv file downloaded
+2021-10-15 01:13:22,884 :     root : INFO : trying to find the data for 3 TSO and ZUSATZMASSNAHMEN dataType
+2021-10-15 01:13:24,689 :     root : INFO : 11 - 3_ZUSATZMASSNAHMEN.csv file downloaded
+2021-10-15 01:13:24,689 :     root : INFO : trying to find the data for 3 TSO and NOTHILFE dataType
+2021-10-15 01:13:26,382 :     root : INFO : 12 - 3_NOTHILFE.csv file downloaded
+2021-10-15 01:13:26,382 :     root : INFO : trying to find the data for 2 TSO and MRL dataType
+2021-10-15 01:13:27,946 :     root : INFO : 13 - 2_MRL.csv file downloaded
+2021-10-15 01:13:27,947 :     root : INFO : trying to find the data for 2 TSO and SRL dataType
+2021-10-15 01:13:29,800 :     root : INFO : 14 - 2_SRL.csv file downloaded
+2021-10-15 01:13:29,800 :     root : INFO : trying to find the data for 2 TSO and RZ_SALDO dataType
+2021-10-15 01:13:31,550 :     root : INFO : 15 - 2_RZ_SALDO.csv file downloaded
+2021-10-15 01:13:31,551 :     root : INFO : trying to find the data for 2 TSO and REBAP dataType
+2021-10-15 01:13:33,379 :     root : INFO : 16 - 2_REBAP.csv file downloaded
+2021-10-15 01:13:33,379 :     root : INFO : trying to find the data for 2 TSO and ZUSATZMASSNAHMEN dataType
+2021-10-15 01:13:35,146 :     root : INFO : 17 - 2_ZUSATZMASSNAHMEN.csv file downloaded
+2021-10-15 01:13:35,146 :     root : INFO : trying to find the data for 2 TSO and NOTHILFE dataType
+2021-10-15 01:13:36,522 :     root : INFO : 18 - 2_NOTHILFE.csv file downloaded
+2021-10-15 01:13:36,522 :     root : INFO : trying to find the data for 1 TSO and MRL dataType
+2021-10-15 01:13:38,208 :     root : INFO : 19 - 1_MRL.csv file downloaded
+2021-10-15 01:13:38,208 :     root : INFO : trying to find the data for 1 TSO and SRL dataType
+2021-10-15 01:13:39,916 :     root : INFO : 20 - 1_SRL.csv file downloaded
+2021-10-15 01:13:39,916 :     root : INFO : trying to find the data for 1 TSO and RZ_SALDO dataType
+2021-10-15 01:13:41,619 :     root : INFO : 21 - 1_RZ_SALDO.csv file downloaded
+2021-10-15 01:13:41,619 :     root : INFO : trying to find the data for 1 TSO and REBAP dataType
+2021-10-15 01:13:43,397 :     root : INFO : 22 - 1_REBAP.csv file downloaded
+2021-10-15 01:13:43,397 :     root : INFO : trying to find the data for 1 TSO and ZUSATZMASSNAHMEN dataType
+2021-10-15 01:13:45,249 :     root : INFO : 23 - 1_ZUSATZMASSNAHMEN.csv file downloaded
+2021-10-15 01:13:45,249 :     root : INFO : trying to find the data for 1 TSO and NOTHILFE dataType
+2021-10-15 01:13:46,645 :     root : INFO : 24 - 1_NOTHILFE.csv file downloaded
+2021-10-15 01:13:46,645 :     root : INFO : trying to find the data for 6 TSO and MRL dataType
+2021-10-15 01:13:48,323 :     root : INFO : 25 - 6_MRL.csv file downloaded
+2021-10-15 01:13:48,323 :     root : INFO : trying to find the data for 6 TSO and SRL dataType
+2021-10-15 01:13:50,583 :     root : INFO : 26 - 6_SRL.csv file downloaded
+2021-10-15 01:13:50,583 :     root : INFO : trying to find the data for 6 TSO and RZ_SALDO dataType
+2021-10-15 01:13:52,611 :     root : INFO : 27 - 6_RZ_SALDO.csv file downloaded
+2021-10-15 01:13:52,611 :     root : INFO : trying to find the data for 6 TSO and REBAP dataType
+2021-10-15 01:13:54,392 :     root : INFO : 28 - 6_REBAP.csv file downloaded
+2021-10-15 01:13:54,392 :     root : INFO : trying to find the data for 6 TSO and ZUSATZMASSNAHMEN dataType
+2021-10-15 01:13:56,435 :     root : INFO : 29 - 6_ZUSATZMASSNAHMEN.csv file downloaded
+2021-10-15 01:13:56,435 :     root : INFO : trying to find the data for 6 TSO and NOTHILFE dataType
+2021-10-15 01:13:58,160 :     root : INFO : 30 - 6_NOTHILFE.csv file downloaded
+2021-10-15 01:13:58,160 :     root : INFO : trying to find the data for 11 TSO and MRL dataType
+2021-10-15 01:14:00,299 :     root : INFO : 31 - 11_MRL.csv file downloaded
+2021-10-15 01:14:00,299 :     root : INFO : trying to find the data for 11 TSO and SRL dataType
+2021-10-15 01:14:02,032 :     root : INFO : 32 - 11_SRL.csv file downloaded
+2021-10-15 01:14:02,032 :     root : INFO : trying to find the data for 11 TSO and RZ_SALDO dataType
+2021-10-15 01:14:03,812 :     root : INFO : 33 - 11_RZ_SALDO.csv file downloaded
+2021-10-15 01:14:03,812 :     root : INFO : trying to find the data for 11 TSO and REBAP dataType
+2021-10-15 01:14:05,499 :     root : INFO : 34 - 11_REBAP.csv file downloaded
+2021-10-15 01:14:05,499 :     root : INFO : trying to find the data for 11 TSO and ZUSATZMASSNAHMEN dataType
+2021-10-15 01:14:06,978 :     root : INFO : 35 - 11_ZUSATZMASSNAHMEN.csv file downloaded
+2021-10-15 01:14:06,978 :     root : INFO : trying to find the data for 11 TSO and NOTHILFE dataType
+2021-10-15 01:14:08,762 :     root : INFO : 36 - 11_NOTHILFE.csv file downloaded
+2021-10-15 01:14:08,763 :     root : INFO : trying to find the data for -42 TSO and MRL dataType
+2021-10-15 01:14:09,892 :     root : INFO : trying to find the data for -42 TSO and SRL dataType
+2021-10-15 01:14:10,892 :     root : INFO : trying to find the data for -42 TSO and RZ_SALDO dataType
+2021-10-15 01:14:11,859 :     root : INFO : trying to find the data for -42 TSO and REBAP dataType
+2021-10-15 01:14:13,291 :     root : INFO : 37 - -42_REBAP.csv file downloaded
+2021-10-15 01:14:13,291 :     root : INFO : trying to find the data for -42 TSO and ZUSATZMASSNAHMEN dataType
+2021-10-15 01:14:14,246 :     root : INFO : trying to find the data for -42 TSO and NOTHILFE dataType
+2021-10-15 01:14:15,246 :     root : INFO : File merging started
+2021-10-15 01:14:15,580 :     root : INFO : output file - c:\Users\Office\Documents\HANDSON\Data Scrapping\regelleistung-data-scrapping\output_folder\Output.csv
+2021-10-15 01:14:15,604 :     root : INFO : File merging completed
