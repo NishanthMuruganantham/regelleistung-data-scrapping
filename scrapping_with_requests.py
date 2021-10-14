@@ -14,7 +14,7 @@ output_filepath = os.path.join(os.path.abspath(os.path.dirname(__file__)),"outpu
 
 
 #* capturing the log information in a log file:-
-log_file = os.path.join(os.path.dirname(__file__), "LogFile.log")
+log_file = os.path.join(os.path.dirname(__file__), "Logfile.log")
 logging.basicConfig(filename = log_file,format='%(asctime)s : %(name)8s : %(levelname)s : %(message)s',filemode='w')
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
